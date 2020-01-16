@@ -13,7 +13,7 @@
 
 ## Instalação
 
-Para se conectar ao banco de dados MongoDB, no diretório-raiz do projeto, renomeie o arquivo `.env.example` para `.env`, passando o seu `username` e a sua `password`.
+Para se conectar ao banco de dados MongoDB, no diretório-raiz do projeto, renomeie o arquivo `.env.example` para `.env`, passando o seu nome de usuário e a sua senha.
 
 Para instalar as dependências e executar o servidor (modo desenvolvimento), clone o projeto em seu computador e em seguida execute:
 
